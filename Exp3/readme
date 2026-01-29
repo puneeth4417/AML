@@ -1,0 +1,9 @@
+This Lab we will look into Hard margin and soft margine Understanding
+
+data.py -- Loading the load_breast_cancer dataset and Expanding the number of samples in the same data set as well as applying PCA.
+
+task0.py -- Functions created to visulize both datasets
+
+task1.py -- Function to train and evaluate SVM models on both datasets
+
+visual.py -- Contains the plotting function
